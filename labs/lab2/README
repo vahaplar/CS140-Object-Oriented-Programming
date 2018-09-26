@@ -1,0 +1,56 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 2 README FILE
+
+Due Date: Friday, September 25, 2015
+Submission Date: Thursday, September 24, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+The project has a purpose to teach how to use classes. It consists of two programs, first one is a random number generator, using Random class it simulates dice rolling. 
+Second one prints 6 numbers on screen, which are picked in a lottery (a random combination between 1 and 49).
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README, DieSimulator.java , LotteryPicker.java, DieSimulator.class, LotteryPicker.java
+
+SAMPLE OUTPUT: 
+
+DieSimulator:
+
+6
+
+LotteryPicker:
+
+Play this combination - it'll make you rich!
+11
+37
+11
+41
+4
+37
+
+TO RUN:
+By using the command "jar -xvf lab2.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target LotteryPicker" 
+command while in lab2 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab instructions
+
+MISCELLANEOUS:
+"for" loop used in second program in order to create a combination in the lottery.
+
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

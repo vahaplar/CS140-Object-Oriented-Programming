@@ -1,0 +1,41 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 1 README FILE
+
+Due Date: Friday, September 11, 2015
+Submission Date: Tuesday, September 8, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+The software is a "Hello World!" program which is author's simplest interaction with Java. Also the project has a purpose to teach author
+how to develop a program in Linux command line environment, using several commands.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README , definitions.txt , HelloWorld.java , HelloWorld.class
+
+SAMPLE OUTPUT:
+Hello World
+
+TO RUN:
+By using the command "jar -xvf lab1.jar", we extract the documents in .jar file. To run, simply used "java -cp target Helloworld"
+command while in lab1 folder.
+
+EXTRA CREDIT:
+For PART A there's a file named "definitions.txt" in lab1 folder, which has summarized information about some useful linux/unix commands.
+
+BIBLIOGRAPHY:
+"Lab Instructions" document and the additional instructions given by TA.
+
+MISCELLANEOUS:
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

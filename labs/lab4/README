@@ -1,0 +1,68 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 4 README FILE
+
+Due Date: Monday, October 19, 2015
+Submission Date: Monday, October 19, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+Using seperate classes, understanding dependency in class design.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+There's a bug with the use of double. Since last value of change is smaller than 1.0, it doesnt show up in output.
+
+FILES:
+README, CashRegister.java , CashRegisterTester.java , Coin.java , CashRegister.class , CashRegisterTester.class , Coin.class
+
+SAMPLE OUTPUT: 
+
+Coin Entered: 2.0
+Coin Entered: 2.0
+Coin Entered: 1.0
+Coin Entered: 1.0
+Coin Entered: 1.0
+Coin Entered: 1.0
+Coin Entered: 26.0
+Coin type not found. Value set to default: 1.00
+Coin Entered: 0.5
+Coin Entered: 0.5
+Your purchase is: 6.12
+Your payment is: 10.0
+Your change is: 3.88
+Coin box: 
+Coin Entered: 2.0
+Coin Entered: 1.0
+Coin Entered: 0.5
+Coin Entered: 0.2
+Coin Entered: 0.1
+Coin Entered: 0.05
+Coin Entered: 0.02
+2.0
+1.0
+0.5
+0.2
+0.1
+0.05
+0.02
+
+TO RUN:
+By using the command "jar -xvf lab4.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target CashRegisterTester" 
+command while in lab4 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab Instructions and the informations given by TA
+
+MISCELLANEOUS:
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

@@ -1,0 +1,48 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 7 README FILE
+
+Due Date: Friday, November 13, 2015
+Submission Date: Thursday, November 12, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+To introduce the student to the concepts of inheritance
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README, Person.java, Student.java, Instructor.java, PersonTester.java
+Person.class, Student.class, Instructor.class, PersonTester.class
+
+SAMPLE OUTPUT: 
+
+Yusuf - 150000
+Tolgahan - Computer Science
+Ali - Computer Science
+Ahmet - Computer Science
+Hasan - Computer Science
+Osman - Computer Science
+
+
+TO RUN:
+By using the command "jar -xvf lab7.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target PersonTester" 
+command while in lab7 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab Instructions and the informations given by instructor.
+
+MISCELLANEOUS:
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

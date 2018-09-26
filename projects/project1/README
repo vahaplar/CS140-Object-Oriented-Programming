@@ -1,0 +1,72 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 1 README FILE
+
+Due Date: Friday, October 22, 2015
+Submission Date: Tuesday, October 23, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+We'll learn class implementation and design, array based manipulations, loops and practice unit testing.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README , Card.java , Deck.java , Player.java , DeckTester.java , HandCheck.java
+Card.class , Deck.class , Player.class , DeckTester.class , HandCheck.class 
+
+SAMPLE OUTPUT:
+
+Welcome to the poker table, Mr.Vahaplar
+Your initial bankroll is: 1500
+Here is your hand: 
+Suit: 1 Value: 6
+Suit: 3 Value: 2
+Suit: 4 Value: 14
+Suit: 3 Value: 8
+Suit: 4 Value: 6
+Hand Score: 106
+Would you like to redraw your hand? Type Yes: 
+.....
+Here is computer's hand: 
+Suit: 3 Value: 6
+Suit: 1 Value: 13
+Suit: 4 Value: 4
+Suit: 3 Value: 7
+Suit: 3 Value: 4
+Hand Score: 104
+Congratulations, you won!
+Your current bankroll is: 1600
+Would you like to continue playing? Type Yes: 
+
+Goodbye!
+
+DeckTester Begins! Enter any key to continue: 
+
+Suits    | Values
+
+Suits: 1 , Values: 2
+Suits: 1 , Values: 3
+Suits: 1 , Values: 4
+.....
+
+TO RUN:
+By using the command "jar -xvf project1.jar", we extract the documents in .jar file. To run, simply used "java -cp target DeckTester"
+command while in lab1 folder.
+
+EXTRA CREDIT:
+
+BIBLIOGRAPHY:
+Lab Instructions.
+
+MISCELLANEOUS:
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

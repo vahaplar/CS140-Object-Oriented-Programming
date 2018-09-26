@@ -1,0 +1,46 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 8 README FILE
+
+Due Date: Friday, December 11, 2015
+Submission Date: Friday, December 11, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+Teaching the student Exceptions and "Recursive vs Iteration" calls
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README, Stopwatch.java, PermutationCounter.java, PermutationTester.java, Stopwatch.class, PermutationCounter.class, PermutationTester.class 
+
+SAMPLE OUTPUT: 
+
+10 recursively took: 26200
+10 iteratively took: 10200
+100 recursively took: 95100
+100 iteratively took: 13800
+1000 recursively took: 1515100
+1000 iteratively took: 117500
+
+TO RUN:
+By using the command "jar -xvf lab8.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target PermutationTester" 
+command while in lab8 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab Instructions and the informations given by instructor.
+
+MISCELLANEOUS:
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

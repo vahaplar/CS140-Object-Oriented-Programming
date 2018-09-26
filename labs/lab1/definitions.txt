@@ -1,0 +1,10 @@
+man: Opens a manual for the command stated.
+pwd: Shows the path name of the current directory.
+mkdir: Creates a folder.
+rmdir: Removes a folder if it's empty.
+cd: Changes directory if a folder name stated after this command. Use of ".." will bring the user back to the parent folder√.
+ls: Lists the folders/files in a directory.
+find: File finding command.
+locate: Similar to find command.
+javac: Command to compile codes written in java language using "javac" compiler.
+java: Command to run a java program that has been compiled.

@@ -1,0 +1,55 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 3 README FILE
+
+Due Date: Friday, September 2, 2015
+Submission Date: Friday, September 2, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+The project has a purpose to teach implementing a complete class, and testing it with main function. 
+It consists of two programs, one for our class and other for testing our code.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README, Car.java , CarTester.java, Car.class, CarTester.java
+
+SAMPLE OUTPUT: 
+
+TestAll() begins with normal values:
+Adding fuel. . . . .
+Attempting to drive. . . . .
+Wroom Wroom!
+Fuel level: 19.98
+TestAll() begins with experimental values:
+Adding fuel. . . . .
+You have reached maximum fuel capacity of 20!
+Attempting to drive. . . . .
+You may run out of fuel.
+Fuel level: 20.0
+
+
+TO RUN:
+By using the command "jar -xvf lab3.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target CarTester" 
+command while in lab3 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab Instructions and the informations given by TA
+
+MISCELLANEOUS:
+We didn't import Car class to CarTester, since they were both in the same folder. 
+
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.

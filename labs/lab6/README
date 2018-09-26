@@ -1,0 +1,53 @@
+CS140 Object Oriented Programming
+Fall 2015
+PROJECT 6 README FILE
+
+Due Date: Friday, October 30, 2015
+Submission Date: Friday, October 29, 2015
+Author(s): Tolgahan Vahaplar
+e-mail(s): tolgahanvahaplar@gmail.com / tvahapl1@binghamton.edu
+
+PURPOSE:
+More introduction on class design.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+None
+
+BUGS:
+None
+
+FILES:
+README, ComboLock.java , ComboLockTester.java, ComboLock.class , ComboLockTester.class
+
+SAMPLE OUTPUT: 
+
+Lock combination is: 49, 12, 35
+Number of ticks to the right: 
+1
+Current position is: 49
+Number of ticks to the left: 
+13
+Current position is: 12
+Number of ticks to the right: 
+27
+Current position is: 35
+The lock is open!
+
+TO RUN:
+By using the command "jar -xvf lab6.jar", we extract the documents in .jar file. To run, for example the second program, we simply used "java -cp target ComboLockTester" 
+command while in lab6 folder.
+
+EXTRA CREDIT:
+N/a
+
+BIBLIOGRAPHY:
+Lab Instructions and the informations given by instructor.
+
+MISCELLANEOUS:
+The lock algorithm is the same algorithm that I use in my locker room at university.
+
+Because of the technical problems with servers,  I had to use "bingsuns.binghamton.edu" with the suggestion of my instructor in order to compile and archive this project.
+Due to this, I had to use an earlier version of java.
